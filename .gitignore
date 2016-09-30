@@ -1,0 +1,10 @@
+# Netbeans Project
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Java Command Line Bin
+bin/*
