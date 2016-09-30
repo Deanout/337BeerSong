@@ -17,7 +17,7 @@ public class BeerSong {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        ninetyNineBottlesOfBeer();
     }
     /**
      * Helper function prints the actual song when called.
